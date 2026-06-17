@@ -16,6 +16,19 @@ Generic mock interviews ask textbook questions. CoachAI extracts skills, project
 
 ---
 
+## 📸 Screenshots
+
+### 1. Resume Upload Dashboard
+![Resume Upload Dashboard](screenshots/homepage.png)
+
+### 2. Interview Setup & Configuration
+![Interview Setup](screenshots/customize.png)
+
+### 3. Detailed Answer Evaluation Feedback
+![Answer Evaluation](screenshots/evaluation.png)
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Backend
